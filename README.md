@@ -1,10 +1,10 @@
 # Check-list para Entrega do Projeto
 
-**Nome do Projeto:** Desenvolvendo uma aplicação escalável para otimizar o tempo de acesso às bases de dados legadas.
+**Nome do Projeto:** Tapete sensorial como recurso lúdico para assistência a crianças com Transtorno do Espectro Autista.
 
 # Introdução
 
-Este é um dos repositórios do projeto de alunos do Inteli em parceria com a Vivo Telefônica no 1º semestre de 2024. Este projeto está sendo desenvolvido por alunos do Módulo 7 do curso de Ciência da Computação.
+Este é um dos repositórios do projeto de alunos do Inteli em parceria com o Departamento de Fisioterapia, Fonoaudiologia e Terapia Ocupacional (FOFITO) da Faculdade de Medicina da Universidade de São Paulo (FMUSP). Este projeto foi desenvolvido no 1º semestre de 2024 por alunos do Módulo 8 do curso de Ciência da Computação.
 
 # 1. No arquivo README.md
  (a) Os logos do parceiro e do Inteli estão no topo da página.
