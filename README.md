@@ -14,7 +14,7 @@ Este é um dos repositórios do projeto de alunos do Inteli em parceria com o De
 <td>
 <a href= "https://www.fm.usp.br/fofito/portal/"> <img src="img/fmusp-logo.svg" alt="vivo.com.br" border="0" width="90%"></a>
 </td>
-<td><a href= "https://www.inteli.edu.br/"><img src="img/inteli-logo.png" alt="Inteli - Instituto de Tecnologia e Liderança" border="0" width="50%"></a>
+<td><a href= "https://www.inteli.edu.br/"><img src="img/inteli-logo.png" alt="Inteli - Instituto de Tecnologia e Liderança" border="0" width="35%"></a>
 </td>
 </tr>
 </table>
@@ -64,5 +64,5 @@ Este é um dos repositórios do projeto de alunos do Inteli em parceria com o De
 
 # 4. Na pasta /src
 
-(a) Há duas pastas, onde cada uma corresponde a um item de software do projeto: back-end e front-end.
+Há três pastas, onde cada uma corresponde a um item de software do projeto: compilador, gerador e ide
 
