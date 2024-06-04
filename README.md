@@ -12,7 +12,7 @@ Este é um dos repositórios do projeto de alunos do Inteli em parceria com o De
 <table>
 <tr>
 <td>
-<a href= "https://www.fm.usp.br/fofito/portal/"> <img src="img/fmusp-logo.svg" alt="vivo.com.br" border="0" width="20%"></a>
+<a href= "https://www.fm.usp.br/fofito/portal/"> <img src="img/fmusp-logo.svg" alt="vivo.com.br" border="0" width="90%"></a>
 </td>
 <td><a href= "https://www.inteli.edu.br/"><img src="img/inteli-logo.png" alt="Inteli - Instituto de Tecnologia e Liderança" border="0" width="50%"></a>
 </td>
